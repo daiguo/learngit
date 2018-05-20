@@ -5,4 +5,6 @@ this is daiguoxing  the first time learn Git.
 sjdksa
 tract changes.
 track changes is of files.
-github hui you?? 
+github hui you??
+create a new branch is quick
+ 
